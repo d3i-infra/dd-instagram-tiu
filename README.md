@@ -1,3 +1,5 @@
+This repo is used for an instagram data donation study at the TiU it's purpose is to examine the relation between content interactions and political orientation. 
+
 # The data donation task
 
 The data donation task (a fork of [Feldspar](https://github.com/eyra/feldspar)) is front end that guides participants through the data donation steps, used in conjunction with Next.
